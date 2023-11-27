@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Alberto Fernandez",
+      "email": "albertito@gmail.com",
+      "numero": "2392983293"
+    },
+    {
+      "id": 2,
+      "nombre": "Cristina Kirchner",
+      "email": "cristinino@gmail.com",
+      "numero": "8912633233"
+    },
+    {
+      "nombre": "Carlos Menem",
+      "email": "carlosmenem@gmail.com",
+      "numero": "8283728383",
+      "id": 3
+    },
+    {
+      "nombre": "Adolfo Gonzalito Pasteles VI de Rio Cuarto",
+      "email": "adolfinpastelin123@gmail.com",
+      "numero": "9283238823",
+      "id": 4
+    }
+  ]
+}
